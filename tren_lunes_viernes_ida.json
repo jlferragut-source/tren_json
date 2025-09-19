@@ -1,0 +1,5638 @@
+{
+    "Tren": "LUNES A VIERNES - IDA",
+    "Viajes": [
+        {
+            "Parada": 1,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "5:50"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "5:51"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "5:53"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "5:54"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "5:55"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "5:56"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "5:57"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "5:59"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "6:01"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "6:03"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "6:05"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "6:10"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "6:13"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "6:16"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "6:19"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "6:24"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "6:25"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "6:29"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "6:33"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "6:37"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "6:41"
+                }
+            ]
+        },
+        {
+            "Parada": 2,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "6:00"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "6:01"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "6:03"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "6:04"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "6:05"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "6:06"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "6:07"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "6:09"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "6:11"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "6:13"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "6:15"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "6:20"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "6:23"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "6:26"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "6:29"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "6:33"
+                }
+            ]
+        },
+        {
+            "Parada": 3,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "6:10"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "6:11"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "6:13"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "6:14"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "6:15"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "6:16"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "6:17"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "6:19"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "6:21"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "6:23"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "6:25"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "6:30"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "6:33"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "6:36"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "6:39"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "6:44"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "6:45"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "6:57"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "7:06"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "7:15"
+                }
+            ]
+        },
+        {
+            "Parada": 4,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "6:20"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "6:21"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "6:23"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "6:24"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "6:25"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "6:26"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "6:27"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "6:29"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "6:31"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "6:33"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "6:35"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "6:40"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "6:43"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "6:46"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "6:49"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "6:53"
+                }
+            ]
+        },
+        {
+            "Parada": 5,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "6:32"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "6:40"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "6:43"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "6:49"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "6:52"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "6:55"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "6:59"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "7:05"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "7:06"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "7:10"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "7:14"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "7:18"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "7:22"
+                }
+            ]
+        },
+        {
+            "Parada": 6,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "6:40"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "6:41"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "6:43"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "6:44"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "6:45"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "6:46"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "6:47"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "6:49"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "6:51"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "6:53"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "6:55"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "7:00"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "7:03"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "7:06"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "7:09"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "7:13"
+                }
+            ]
+        },
+        {
+            "Parada": 7,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "6:50"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "6:51"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "6:53"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "6:54"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "6:55"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "6:56"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "6:57"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "6:59"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "7:01"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "7:03"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "7:05"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "7:10"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "7:13"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "7:16"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "7:19"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "7:24"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "7:25"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "7:37"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "7:46"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "7:55"
+                }
+            ]
+        },
+        {
+            "Parada": 8,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "7:00"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "7:01"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "7:03"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "7:04"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "7:05"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "7:06"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "7:07"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "7:09"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "7:11"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "7:13"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "7:15"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "7:20"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "7:23"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "7:26"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "7:29"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "7:33"
+                }
+            ]
+        },
+        {
+            "Parada": 9,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "7:10"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "7:11"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "7:13"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "7:14"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "7:15"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "7:16"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "7:17"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "7:19"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "7:21"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "7:23"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "7:25"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "7:30"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "7:33"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "7:36"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "7:39"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "7:44"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "7:45"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "7:49"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "7:53"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "7:57"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "8:01"
+                }
+            ]
+        },
+        {
+            "Parada": 10,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "7:20"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "7:21"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "7:23"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "7:24"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "7:25"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "7:26"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "7:27"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "7:29"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "7:31"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "7:33"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "7:35"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "7:40"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "7:43"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "7:46"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "7:49"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "7:53"
+                }
+            ]
+        },
+        {
+            "Parada": 11,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "7:30"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "7:31"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "7:33"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "7:34"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "7:35"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "7:36"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "7:37"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "7:39"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "7:41"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "7:43"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "7:45"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "7:50"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "7:53"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "7:56"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "7:59"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "8:04"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "8:05"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "8:17"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "8:26"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "8:35"
+                }
+            ]
+        },
+        {
+            "Parada": 12,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "7:40"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "7:41"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "7:43"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "7:44"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "7:45"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "7:46"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "7:47"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "7:49"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "7:51"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "7:53"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "7:55"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "8:00"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "8:03"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "8:06"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "8:09"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "8:13"
+                }
+            ]
+        },
+        {
+            "Parada": 13,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "7:50"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "7:51"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "7:53"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "7:54"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "7:55"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "7:56"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "7:57"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "7:59"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "8:01"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "8:03"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "8:05"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "8:10"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "8:13"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "8:16"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "8:19"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "8:24"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "8:25"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "8:29"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "8:33"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "8:37"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "8:41"
+                }
+            ]
+        },
+        {
+            "Parada": 14,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "8:00"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "8:01"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "8:03"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "8:04"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "8:05"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "8:06"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "8:07"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "8:09"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "8:11"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "8:13"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "8:15"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "8:20"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "8:23"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "8:26"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "8:29"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "8:33"
+                }
+            ]
+        },
+        {
+            "Parada": 15,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "8:10"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "8:11"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "8:13"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "8:14"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "8:15"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "8:16"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "8:17"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "8:19"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "8:21"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "8:23"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "8:25"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "8:30"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "8:33"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "8:36"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "8:39"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "8:44"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "8:45"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "8:57"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "9:06"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "9:15"
+                }
+            ]
+        },
+        {
+            "Parada": 16,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "8:20"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "8:21"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "8:23"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "8:24"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "8:25"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "8:26"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "8:27"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "8:29"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "8:31"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "8:33"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "8:35"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "8:40"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "8:43"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "8:46"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "8:49"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "8:53"
+                }
+            ]
+        },
+        {
+            "Parada": 17,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "8:32"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "8:40"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "8:43"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "8:49"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "8:52"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "8:55"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "8:59"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "9:05"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "9:06"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "9:10"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "9:14"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "9:18"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "9:22"
+                }
+            ]
+        },
+        {
+            "Parada": 18,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "8:40"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "8:41"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "8:43"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "8:44"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "8:45"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "8:46"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "8:47"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "8:49"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "8:51"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "8:53"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "8:55"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "9:00"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "9:03"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "9:06"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "9:09"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "9:13"
+                }
+            ]
+        },
+        {
+            "Parada": 19,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "8:50"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "8:51"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "8:53"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "8:54"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "8:55"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "8:56"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "8:57"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "8:59"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "9:01"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "9:03"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "9:05"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "9:10"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "9:13"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "9:16"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "9:19"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "9:24"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "9:25"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "9:37"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "9:46"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "9:55"
+                }
+            ]
+        },
+        {
+            "Parada": 20,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "9:00"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "9:01"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "9:03"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "9:04"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "9:05"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "9:06"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "9:07"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "9:09"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "9:11"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "9:13"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "9:15"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "9:20"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "9:23"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "9:26"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "9:29"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "9:33"
+                }
+            ]
+        },
+        {
+            "Parada": 21,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "9:10"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "9:11"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "9:13"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "9:14"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "9:15"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "9:16"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "9:17"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "9:19"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "9:21"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "9:23"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "9:25"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "9:30"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "9:33"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "9:36"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "9:39"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "9:44"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "9:45"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "9:49"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "9:53"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "9:57"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "10:01"
+                }
+            ]
+        },
+        {
+            "Parada": 22,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "9:30"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "9:31"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "9:33"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "9:34"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "9:35"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "9:36"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "9:37"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "9:39"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "9:41"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "9:43"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "9:45"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "9:50"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "9:53"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "9:56"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "9:59"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "10:04"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "10:05"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "10:17"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "10:26"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "10:35"
+                }
+            ]
+        },
+        {
+            "Parada": 23,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "9:50"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "9:51"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "9:53"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "9:54"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "9:55"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "9:56"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "9:57"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "9:59"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "10:01"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "10:03"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "10:05"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "10:10"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "10:13"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "10:16"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "10:19"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "10:24"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "10:25"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "10:29"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "10:33"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "10:37"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "10:41"
+                }
+            ]
+        },
+        {
+            "Parada": 24,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "10:10"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "10:11"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "10:13"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "10:14"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "10:15"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "10:16"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "10:17"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "10:19"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "10:21"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "10:23"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "10:25"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "10:30"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "10:33"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "10:36"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "10:39"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "10:44"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "10:45"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "10:57"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "11:06"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "11:15"
+                }
+            ]
+        },
+        {
+            "Parada": 25,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "10:30"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "10:31"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "10:33"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "10:34"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "10:35"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "10:36"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "10:37"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "10:39"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "10:41"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "10:43"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "10:45"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "10:50"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "10:53"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "10:56"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "10:59"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "11:04"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "11:05"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "11:09"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "11:13"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "11:17"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "11:21"
+                }
+            ]
+        },
+        {
+            "Parada": 26,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "10:50"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "10:51"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "10:53"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "10:54"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "10:55"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "10:56"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "10:57"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "10:59"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "11:01"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "11:03"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "11:05"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "11:10"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "11:13"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "11:16"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "11:19"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "11:23"
+                }
+            ]
+        },
+        {
+            "Parada": 27,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "11:10"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "11:11"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "11:13"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "11:14"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "11:15"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "11:16"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "11:17"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "11:19"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "11:21"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "11:23"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "11:25"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "11:30"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "11:33"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "11:36"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "11:39"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "11:44"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "11:45"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "11:57"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "12:05"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "12:14"
+                }
+            ]
+        },
+        {
+            "Parada": 28,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "11:30"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "11:31"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "11:33"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "11:34"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "11:35"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "11:36"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "11:37"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "11:39"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "11:41"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "11:43"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "11:45"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "11:50"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "11:53"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "11:56"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "11:59"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "12:04"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "12:05"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "12:09"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "12:13"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "12:17"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "12:21"
+                }
+            ]
+        },
+        {
+            "Parada": 29,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "11:50"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "11:51"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "11:53"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "11:54"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "11:55"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "11:56"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "11:57"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "11:59"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "12:01"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "12:03"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "12:05"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "12:10"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "12:13"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "12:16"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "12:19"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "12:23"
+                }
+            ]
+        },
+        {
+            "Parada": 30,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "12:10"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "12:11"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "12:13"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "12:14"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "12:15"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "12:16"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "12:17"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "12:19"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "12:21"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "12:23"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "12:25"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "12:30"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "12:33"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "12:36"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "12:39"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "12:44"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "12:45"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "12:57"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "13:05"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "13:14"
+                }
+            ]
+        },
+        {
+            "Parada": 31,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "12:30"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "12:31"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "12:33"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "12:34"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "12:35"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "12:36"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "12:37"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "12:39"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "12:41"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "12:43"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "12:45"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "12:50"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "12:53"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "12:56"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "12:59"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "13:04"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "13:05"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "13:09"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "13:13"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "13:17"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "13:21"
+                }
+            ]
+        },
+        {
+            "Parada": 32,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "12:50"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "12:51"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "12:53"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "12:54"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "12:55"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "12:56"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "12:57"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "12:59"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "13:01"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "13:03"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "13:05"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "13:10"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "13:13"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "13:16"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "13:19"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "13:23"
+                }
+            ]
+        },
+        {
+            "Parada": 33,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "13:10"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "13:11"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "13:13"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "13:14"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "13:15"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "13:16"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "13:17"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "13:19"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "13:21"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "13:23"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "13:25"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "13:30"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "13:33"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "13:36"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "13:39"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "13:44"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "13:45"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "13:57"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "14:05"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "14:14"
+                }
+            ]
+        },
+        {
+            "Parada": 34,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "13:20"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "13:21"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "13:23"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "13:24"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "13:25"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "13:26"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "13:27"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "13:29"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "13:31"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "13:33"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "13:35"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "13:40"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "13:43"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "13:46"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "13:49"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "13:53"
+                }
+            ]
+        },
+        {
+            "Parada": 35,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "13:32"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "13:40"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "13:43"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "13:49"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "13:52"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "13:55"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "13:59"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "14:05"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "14:06"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "14:10"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "14:14"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "14:18"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "14:22"
+                }
+            ]
+        },
+        {
+            "Parada": 36,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "13:40"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "13:41"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "13:43"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "13:44"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "13:45"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "13:46"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "13:47"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "13:49"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "13:51"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "13:53"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "13:55"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "14:00"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "14:03"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "14:06"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "14:09"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "14:13"
+                }
+            ]
+        },
+        {
+            "Parada": 37,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "13:50"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "13:51"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "13:53"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "13:54"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "13:55"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "13:56"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "13:57"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "13:59"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "14:01"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "14:03"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "14:05"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "14:10"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "14:13"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "14:16"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "14:19"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "14:24"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "14:25"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "14:37"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "14:46"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "14:55"
+                }
+            ]
+        },
+        {
+            "Parada": 38,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "14:00"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "14:01"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "14:03"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "14:04"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "14:05"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "14:06"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "14:07"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "14:09"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "14:11"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "14:13"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "14:15"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "14:20"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "14:23"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "14:26"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "14:29"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "14:33"
+                }
+            ]
+        },
+        {
+            "Parada": 39,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "14:12"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "14:20"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "14:23"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "14:29"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "14:32"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "14:35"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "14:39"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "14:45"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "14:46"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "14:50"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "14:54"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "14:58"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "15:02"
+                }
+            ]
+        },
+        {
+            "Parada": 40,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "14:20"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "14:21"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "14:23"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "14:24"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "14:25"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "14:26"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "14:27"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "14:29"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "14:31"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "14:33"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "14:35"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "14:40"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "14:43"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "14:46"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "14:49"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "14:53"
+                }
+            ]
+        },
+        {
+            "Parada": 41,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "14:30"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "14:31"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "14:33"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "14:34"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "14:35"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "14:36"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "14:37"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "14:39"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "14:41"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "14:43"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "14:45"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "14:50"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "14:53"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "14:56"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "14:59"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "15:04"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "15:05"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "15:17"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "15:26"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "15:35"
+                }
+            ]
+        },
+        {
+            "Parada": 42,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "14:40"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "14:41"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "14:43"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "14:44"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "14:45"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "14:46"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "14:47"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "14:49"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "14:51"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "14:53"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "14:55"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "15:00"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "15:03"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "15:06"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "15:09"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "15:13"
+                }
+            ]
+        },
+        {
+            "Parada": 43,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "14:50"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "14:51"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "14:53"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "14:54"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "14:55"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "14:56"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "14:57"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "14:59"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "15:01"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "15:03"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "15:05"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "15:10"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "15:13"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "15:16"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "15:19"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "15:24"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "15:25"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "15:29"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "15:33"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "15:37"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "15:41"
+                }
+            ]
+        },
+        {
+            "Parada": 44,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "15:00"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "15:01"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "15:03"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "15:04"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "15:05"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "15:06"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "15:07"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "15:09"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "15:11"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "15:13"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "15:15"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "15:20"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "15:23"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "15:26"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "15:29"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "15:33"
+                }
+            ]
+        },
+        {
+            "Parada": 45,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "15:10"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "15:11"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "15:13"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "15:14"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "15:15"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "15:16"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "15:17"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "15:19"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "15:21"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "15:23"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "15:25"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "15:30"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "15:33"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "15:36"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "15:39"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "15:44"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "15:45"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "15:57"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "16:06"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "16:15"
+                }
+            ]
+        },
+        {
+            "Parada": 46,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "15:20"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "15:21"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "15:23"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "15:24"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "15:25"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "15:26"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "15:27"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "15:29"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "15:31"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "15:33"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "15:35"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "15:40"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "15:43"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "15:46"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "15:49"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "15:53"
+                }
+            ]
+        },
+        {
+            "Parada": 47,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "15:30"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "15:31"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "15:33"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "15:34"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "15:35"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "15:36"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "15:37"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "15:39"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "15:41"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "15:43"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "15:45"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "15:50"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "15:53"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "15:56"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "15:59"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "16:04"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "16:05"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "16:09"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "16:13"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "16:17"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "16:21"
+                }
+            ]
+        },
+        {
+            "Parada": 48,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "15:40"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "15:41"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "15:43"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "15:44"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "15:45"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "15:46"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "15:47"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "15:49"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "15:51"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "15:53"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "15:55"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "16:00"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "16:03"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "16:06"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "16:09"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "16:13"
+                }
+            ]
+        },
+        {
+            "Parada": 49,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "15:50"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "15:51"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "15:53"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "15:54"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "15:55"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "15:56"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "15:57"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "15:59"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "16:01"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "16:03"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "16:05"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "16:10"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "16:13"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "16:16"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "16:19"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "16:24"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "16:25"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "16:37"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "16:46"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "16:55"
+                }
+            ]
+        },
+        {
+            "Parada": 50,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "16:00"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "16:01"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "16:03"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "16:04"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "16:05"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "16:06"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "16:07"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "16:09"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "16:11"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "16:13"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "16:15"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "16:20"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "16:23"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "16:26"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "16:29"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "16:33"
+                }
+            ]
+        },
+        {
+            "Parada": 51,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "16:12"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "16:20"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "16:23"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "16:29"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "16:32"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "16:35"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "16:39"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "16:45"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "16:46"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "16:50"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "16:54"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "16:58"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "17:02"
+                }
+            ]
+        },
+        {
+            "Parada": 52,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "16:20"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "16:21"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "16:23"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "16:24"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "16:25"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "16:26"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "16:27"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "16:29"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "16:31"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "16:33"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "16:35"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "16:40"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "16:43"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "16:46"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "16:49"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "16:53"
+                }
+            ]
+        },
+        {
+            "Parada": 53,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "16:30"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "16:31"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "16:33"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "16:34"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "16:35"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "16:36"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "16:37"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "16:39"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "16:41"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "16:43"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "16:45"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "16:50"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "16:53"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "16:56"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "16:59"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "17:04"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "17:05"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "17:17"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "17:26"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "17:35"
+                }
+            ]
+        },
+        {
+            "Parada": 54,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "16:40"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "16:41"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "16:43"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "16:44"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "16:45"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "16:46"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "16:47"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "16:49"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "16:51"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "16:53"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "16:55"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "17:00"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "17:03"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "17:06"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "17:09"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "17:13"
+                }
+            ]
+        },
+        {
+            "Parada": 55,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "16:50"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "16:51"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "16:53"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "16:54"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "16:55"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "16:56"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "16:57"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "16:59"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "17:01"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "17:03"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "17:05"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "17:10"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "17:13"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "17:16"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "17:19"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "17:24"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "17:25"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "17:29"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "17:33"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "17:37"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "17:41"
+                }
+            ]
+        },
+        {
+            "Parada": 56,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "17:00"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "17:01"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "17:03"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "17:04"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "17:05"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "17:06"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "17:07"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "17:09"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "17:11"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "17:13"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "17:15"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "17:20"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "17:23"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "17:26"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "17:29"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "17:33"
+                }
+            ]
+        },
+        {
+            "Parada": 57,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "17:10"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "17:11"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "17:13"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "17:14"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "17:15"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "17:16"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "17:17"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "17:19"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "17:21"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "17:23"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "17:25"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "17:30"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "17:33"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "17:36"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "17:39"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "17:44"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "17:45"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "17:57"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "18:06"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "18:15"
+                }
+            ]
+        },
+        {
+            "Parada": 58,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "17:20"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "17:21"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "17:23"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "17:24"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "17:25"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "17:26"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "17:27"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "17:29"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "17:31"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "17:33"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "17:35"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "17:40"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "17:43"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "17:46"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "17:49"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "17:53"
+                }
+            ]
+        },
+        {
+            "Parada": 59,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "17:30"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "17:31"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "17:33"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "17:34"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "17:35"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "17:36"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "17:37"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "17:39"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "17:41"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "17:43"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "17:45"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "17:50"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "17:53"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "17:56"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "17:59"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "18:04"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "18:05"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "18:09"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "18:13"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "18:17"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "18:21"
+                }
+            ]
+        },
+        {
+            "Parada": 60,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "17:45"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "17:46"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "17:48"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "17:49"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "17:50"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "17:51"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "17:52"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "17:54"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "17:56"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "17:58"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "18:00"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "18:05"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "18:08"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "18:11"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "18:14"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "18:18"
+                }
+            ]
+        },
+        {
+            "Parada": 61,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "18:00"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "18:01"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "18:03"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "18:04"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "18:05"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "18:06"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "18:07"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "18:09"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "18:11"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "18:13"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "18:15"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "18:20"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "18:23"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "18:26"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "18:29"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "18:33"
+                }
+            ]
+        },
+        {
+            "Parada": 62,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "18:15"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "18:16"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "18:18"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "18:19"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "18:20"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "18:21"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "18:22"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "18:24"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "18:26"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "18:28"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "18:30"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "18:35"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "18:38"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "18:41"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "18:44"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "18:49"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "18:50"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "19:03"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "19:11"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "19:20"
+                }
+            ]
+        },
+        {
+            "Parada": 63,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "18:35"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "18:36"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "18:38"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "18:39"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "18:40"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "18:41"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "18:42"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "18:44"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "18:46"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "18:48"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "18:50"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "18:55"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "18:58"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "19:01"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "19:04"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "19:09"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "19:10"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "19:14"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "19:18"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "19:22"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "19:26"
+                }
+            ]
+        },
+        {
+            "Parada": 64,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "18:55"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "18:56"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "18:58"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "18:59"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "19:00"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "19:01"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "19:02"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "19:04"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "19:06"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "19:08"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "19:10"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "19:15"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "19:18"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "19:21"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "19:24"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "19:28"
+                }
+            ]
+        },
+        {
+            "Parada": 65,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "19:15"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "19:16"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "19:18"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "19:19"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "19:20"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "19:21"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "19:22"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "19:24"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "19:26"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "19:28"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "19:30"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "19:35"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "19:38"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "19:41"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "19:44"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "19:49"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "19:50"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "20:03"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "20:11"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "20:20"
+                }
+            ]
+        },
+        {
+            "Parada": 66,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "19:35"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "19:36"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "19:38"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "19:39"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "19:40"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "19:41"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "19:42"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "19:44"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "19:46"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "19:48"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "19:50"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "19:55"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "19:58"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "20:01"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "20:04"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "20:09"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "20:10"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "20:14"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "20:18"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "20:22"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "20:26"
+                }
+            ]
+        },
+        {
+            "Parada": 67,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "19:55"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "19:56"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "19:58"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "19:59"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "20:00"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "20:01"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "20:02"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "20:04"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "20:06"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "20:08"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "20:10"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "20:15"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "20:18"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "20:21"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "20:24"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "20:28"
+                }
+            ]
+        },
+        {
+            "Parada": 68,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "20:15"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "20:16"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "20:18"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "20:19"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "20:20"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "20:21"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "20:22"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "20:24"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "20:26"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "20:28"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "20:30"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "20:35"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "20:38"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "20:41"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "20:44"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "20:49"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "20:50"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "21:03"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "21:11"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "21:20"
+                }
+            ]
+        },
+        {
+            "Parada": 69,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "20:35"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "20:36"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "20:38"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "20:39"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "20:40"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "20:41"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "20:42"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "20:44"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "20:46"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "20:48"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "20:50"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "20:55"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "20:58"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "21:01"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "21:04"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "21:09"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "21:10"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "21:14"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "21:18"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "21:22"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "21:26"
+                }
+            ]
+        },
+        {
+            "Parada": 70,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "20:55"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "20:56"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "20:58"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "20:59"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "21:00"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "21:01"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "21:02"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "21:04"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "21:06"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "21:08"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "21:10"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "21:15"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "21:18"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "21:21"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "21:24"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "21:28"
+                }
+            ]
+        },
+        {
+            "Parada": 71,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "21:15"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "21:16"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "21:18"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "21:19"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "21:20"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "21:21"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "21:22"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "21:24"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "21:26"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "21:28"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "21:30"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "21:35"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "21:38"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "21:41"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "21:44"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "21:49"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "21:50"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "22:03"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "22:11"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "22:20"
+                }
+            ]
+        },
+        {
+            "Parada": 72,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "21:35"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "21:36"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "21:38"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "21:39"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "21:40"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "21:41"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "21:42"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "21:44"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "21:46"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "21:48"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "21:50"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "21:55"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "21:58"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "22:01"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "22:04"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "22:09"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "22:10"
+                },
+                {
+                    "Estacion": "ENLLAÇ",
+                    "Hora": "22:14"
+                },
+                {
+                    "Estacion": "LLUBÍ",
+                    "Hora": "22:18"
+                },
+                {
+                    "Estacion": "MURO",
+                    "Hora": "22:22"
+                },
+                {
+                    "Estacion": "SA POBLA",
+                    "Hora": "22:26"
+                }
+            ]
+        },
+        {
+            "Parada": 73,
+            "Ruta": [
+                {
+                    "Estacion": "ESTACIÓ INTERMODAL PALMA",
+                    "Hora": "22:20"
+                },
+                {
+                    "Estacion": "JACINT VERDAGUER",
+                    "Hora": "22:21"
+                },
+                {
+                    "Estacion": "SON COSTA SON FORTESA",
+                    "Hora": "22:23"
+                },
+                {
+                    "Estacion": "SON FUSTER",
+                    "Hora": "22:24"
+                },
+                {
+                    "Estacion": "SON CLADERA ES VIVERO",
+                    "Hora": "22:25"
+                },
+                {
+                    "Estacion": "VERGE DE LLUC",
+                    "Hora": "22:26"
+                },
+                {
+                    "Estacion": "PONT D´INCA",
+                    "Hora": "22:27"
+                },
+                {
+                    "Estacion": "PONT DÍNCA NOU",
+                    "Hora": "22:29"
+                },
+                {
+                    "Estacion": "POLÍGON DE MARRATXÍ",
+                    "Hora": "22:31"
+                },
+                {
+                    "Estacion": "MARRATXÍ",
+                    "Hora": "22:33"
+                },
+                {
+                    "Estacion": "ES CAÚLLS",
+                    "Hora": "22:35"
+                },
+                {
+                    "Estacion": "SANTA MARÍA",
+                    "Hora": "22:40"
+                },
+                {
+                    "Estacion": "ALARÓ CONSELL",
+                    "Hora": "22:43"
+                },
+                {
+                    "Estacion": "BINISSLEM",
+                    "Hora": "22:46"
+                },
+                {
+                    "Estacion": "LLOSETA",
+                    "Hora": "22:49"
+                },
+                {
+                    "Estacion": "INCA",
+                    "Hora": "22:54"
+                },
+                {
+                    "Estacion": "CONSTÀNCIA HOSPITAL DÍNCA",
+                    "Hora": "22:55"
+                },
+                {
+                    "Estacion": "SINEU",
+                    "Hora": "23:07"
+                },
+                {
+                    "Estacion": "PETRA",
+                    "Hora": "23:15"
+                },
+                {
+                    "Estacion": "MANACOR",
+                    "Hora": "23:24"
+                }
+            ]
+        }
+    ]
+}
