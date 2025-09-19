@@ -1,9 +1,10 @@
 from fastapi import FastAPI, HTTPException
 import json
+import os
 
 app = FastAPI()
 
-# Cargar el JSON con los horarios
+# Cargar el JSON desde el mismo directorio
 with open("tren_lunes_viernes_ida.json", encoding="utf-8") as f:
     DATA = json.load(f)
 
@@ -11,7 +12,7 @@ with open("tren_lunes_viernes_ida.json", encoding="utf-8") as f:
 def home():
     return {"status": "ok", "message": "Train API online"}
 
-@app.get("/get_available_timeslots")
+@app.post("/get_available_timeslots")
 def get_available_timeslots(origen: str, destino: str):
     """
     Devuelve la hora de salida desde 'origen' hacia 'destino'
@@ -20,7 +21,6 @@ def get_available_timeslots(origen: str, destino: str):
     for viaje in DATA["Viajes"]:
         ruta = viaje["Ruta"]
         estaciones = [r["Estacion"] for r in ruta]
-
         if origen in estaciones and destino in estaciones:
             idx_origen = estaciones.index(origen)
             idx_destino = estaciones.index(destino)
@@ -31,5 +31,4 @@ def get_available_timeslots(origen: str, destino: str):
                     "origen": origen,
                     "destino": destino
                 }
-
     raise HTTPException(status_code=404, detail="No se encontró viaje válido")
