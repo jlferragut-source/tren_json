@@ -1,5 +1,7 @@
 from fastapi import FastAPI, HTTPException
 import json
+from datetime import datetime
+import zoneinfo
 
 app = FastAPI()
 
@@ -8,15 +10,22 @@ with open("tren_lunes_viernes_ida.json", encoding="utf-8") as f:
     DATA = json.load(f)
 
 
+def hora_actual_madrid() -> str:
+    """
+    Devuelve la hora actual en Madrid (Europe/Madrid) en formato HH:MM
+    """
+    tz = zoneinfo.ZoneInfo("Europe/Madrid")
+    return datetime.now(tz).strftime("%H:%M")
+
+
 def buscar_estacion(nombre: str, estaciones: list[str]) -> str | None:
     """
-    Busca si alguna palabra clave dada por el usuario
-    está contenida dentro del nombre de estación.
+    Busca coincidencia parcial de palabra clave en nombre de estación.
     """
     nombre = nombre.strip().lower()
     for est in estaciones:
         if nombre in est.strip().lower():
-            return est  # devolver la estación original
+            return est
     return None
 
 
@@ -31,6 +40,7 @@ def get_available_timeslots(origen: str = None, destino: str = None):
         raise HTTPException(status_code=400, detail="Parámetros 'origen' y 'destino' son obligatorios")
 
     resultados = []
+    hora_actual = hora_actual_madrid()
 
     for viaje in DATA["Viajes"]:
         ruta = viaje["Ruta"]
@@ -44,14 +54,18 @@ def get_available_timeslots(origen: str = None, destino: str = None):
             idx_destino = estaciones_originales.index(est_destino)
 
             if idx_origen < idx_destino:
-                resultados.append({
-                    "parada": viaje["Parada"],
-                    "salida": ruta[idx_origen]["Hora"],
-                    "origen": est_origen,
-                    "destino": est_destino
-                })
+                hora_salida = ruta[idx_origen]["Hora"]
+                # Solo incluir viajes que no han salido todavía
+                if hora_salida >= hora_actual:
+                    resultados.append({
+                        "parada": viaje["Parada"],
+                        "salida": hora_salida,
+                        "origen": est_origen,
+                        "destino": est_destino,
+                        "hora_actual": hora_actual
+                    })
 
     if not resultados:
-        raise HTTPException(status_code=404, detail="No se encontró viaje válido")
+        raise HTTPException(status_code=404, detail=f"No se encontró viaje válido después de {hora_actual}")
 
     return {"viajes": resultados}
